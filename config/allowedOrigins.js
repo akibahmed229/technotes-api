@@ -2,7 +2,7 @@
 const allowedOrigins = [
   //   "http://localhost:3000",
   //   "http://localhost:5173",
-  "https://technotes-dg5l.onrender.com/",
+  "https://technotes-dg5l.onrender.com",
 ];
 
 // exporting modlue
